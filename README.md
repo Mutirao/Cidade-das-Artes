@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Mutirao/Cidade-das-Artes.png?label=ready&title=Ready)](https://waffle.io/Mutirao/Cidade-das-Artes)
 # Cidade-das-Artes
 
 Em setembro, o Governo do Estado do Ceará inaugura um grande projeto de descentralização das políticas públicas de cultura do estado: o Cidade das Artes. A iniciativa dá os primeiros passos no município de Sobral, de setembro a dezembro de 2016, promovendo uma vasta programação de apresentações artísticas e de formação, em vários pontos da cidade.
